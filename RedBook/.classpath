@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/development/lwjgl-2.9.3/jar/lwjgl_util.jar" sourcepath="C:/development/lwjgl-2.9.3/lwjgl-source-2.9.3.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/development/lwjgl-2.9.3/lwjgl-docs-2.9.3.zip!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/development/lwjgl-2.9.3/jar/lwjgl.jar" sourcepath="C:/development/lwjgl-2.9.3/lwjgl-source-2.9.3.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/development/lwjgl-2.9.3/lwjgl-docs-2.9.3.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/development/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/development/slick-util/lib/slick-util.jar" sourcepath="C:/development/slick-util/lib/slick-util-src.zip"/>
+	<classpathentry kind="lib" path="C:/development/JTexGen-1.1/jtexgen-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
